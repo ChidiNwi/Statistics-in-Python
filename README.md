@@ -7,7 +7,9 @@ This project uses the following tools and libraries:
 - Matplotlib / Seaborn
 - Jupyter Notebook
 - These tools are commonly used for data exploration, statistical analysis, and visualization in Python.
+
 The analysis follows a standard data analysis workflow:
+
 Import Python libraries
 Load and inspect the dataset
 Perform data cleaning and preparation
